@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name Here]! 👋
+# Hello, I'm Achyuth! 👋
 
 ## About Me
 
@@ -32,8 +32,6 @@ To make my profile visually appealing, here are some stats that showcase my work
 
 ### 🛠️ Technologies & Tools
 
-Feel free to explore the badges of the technologies I'm interested in and working on:
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -41,8 +39,6 @@ Feel free to explore the badges of the technologies I'm interested in and workin
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### 💻 Coding in Action
-
-For a touch of personality, consider adding a coding-related GIF here:
 
 ![Coding GIF](https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif)
 
